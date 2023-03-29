@@ -1,7 +1,4 @@
 
-![Logo](https://i.ibb.co/202dYxy/2023-02-12-13-59-49.png)
-
-
 # Кто хочет стать миллионером
 
 Описание функционала приложения, созданного Командой №17 в рамках учебного марафона [Swift Marathon](https://t.me/swiftmarathon)
@@ -30,9 +27,7 @@
 
 ## Интерфейс
 
-![Millionaire](https://github.com/r-baranovskiy/Millionaire/blob/dev/ReadmeResources/gif2.gif?raw=true)
-
-![Millionaire](https://github.com/r-baranovskiy/Millionaire/blob/dev/ReadmeResources/gif3.gif?raw=true)
+![Logo](https://i.ibb.co/202dYxy/2023-02-12-13-59-49.png)
 
 
 
